@@ -123,4 +123,3 @@ A partir da análise do dashboard é possível identificar:
 
 ---
 
-## 📂 Estrutura do Projeto
